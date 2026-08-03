@@ -52,7 +52,7 @@ for marks in marks_list:
 
 
 #2 Range() Function (Running a loop a fixed number of times)
-"""Basically it is used for creat a loop to automaticall generate a sequence of numbers.
+"""Basically it is used for creat a loop to automatically generate a sequence of numbers.
 """
 #Key Rule . The stop value is exclusive . The loop stops exactly before reaching the boundary number.
 
