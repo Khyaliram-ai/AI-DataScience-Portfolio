@@ -11,21 +11,21 @@ print(mylist1)
 
 
 mytuple1 = ("oodi","xuv-700","bugati","thar","scarpio")
-print(thistuple[2])
-print(thistuple[0])
-print(thistuple[-1])
-print(thistuple[-2])
+print(mytuple1[2])
+print(mytuple1[0])
+print(mytuple1[-1])
+print(mytuple1[-2])
 
 #In this search will start at index 2 (included) and end at index 5 (not included)
-print(thistuple[2:5])
-print(thistuple[:4])
-print(thistuple[2:])
+print(mytuple1[2:5])
+print(mytuple1[:4])
+print(mytuple1[2:])
 
 #loop in mytuple1
-if x in mytuple1:
+if "x" in mytuple1:
     print("the value is ",x)
  
- if "bugati" in mytuple1:
+if "bugati" in mytuple1:
     print("this car is find in my collection")
 
 
