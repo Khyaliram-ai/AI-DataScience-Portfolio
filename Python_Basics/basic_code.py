@@ -68,3 +68,20 @@ print(list_b)
 #shorting of list
 list_b.sort()
 print(list_b)
+
+
+
+
+# Initial data definition
+Product = ['Pencil', 'Pen', 'Eraser', 'Pencil Box', 'Scale']
+Price = [5, 10, 2, 20, 12]
+Brand = ['Camlin', 'Rotomac', 'Nataraj', 'Camel', 'Apsara']
+
+# Creating the nested list
+Stationery = [Product, Price, Brand]
+
+# Correct command to add 'Notebook' as the first element inside the first level list
+Stationery[0].insert(0, 'Notebook')
+
+# Verification print
+print(Stationery)
