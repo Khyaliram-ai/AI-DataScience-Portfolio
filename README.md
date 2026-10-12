@@ -19,6 +19,7 @@ Here is a quick guide to what I have built in this repository:
 * 📁 **`Student_Performance_Analysis_Project_Folder/`**: My main project where I used Pandas and NumPy to analyze student performance trends.
 * 📁 **`Student Result Calculator/`** & **`Simple Calculator/`**: Basic logic-building Python programs.
 * 📄 **`student-mat.csv`**: A real-world dataset containing student academic data used for my analysis.
+* 📄 **`sales_data_analysis.sql`**: A hands-on MySQL script covering structured data analysis from basic queries to sorting, limiting, and grouping.
 
 ---
 
